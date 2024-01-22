@@ -1,7 +1,7 @@
 # hello-world
 A test repository to understand how GitHub works.
 ---
-##What's the point in this?
+## What's the point in this?
 
 > "Once a coder, always a coder"
 > -Anon 2024
